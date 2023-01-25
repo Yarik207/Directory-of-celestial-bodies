@@ -25,19 +25,8 @@ namespace AutoSalonn
 
         private void button1_Click(object sender, EventArgs e)
         {
-            CarForm car = new CarForm(button1.Text);
-            car.Show();
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-            CarForm car = new CarForm(button3.Text);
-            car.Show();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            CarForm car = new CarForm(button2.Text);
+            Button btn = (Button)sender;
+            CarForm car = new CarForm(btn.Text);
             car.Show();
         }
     }
