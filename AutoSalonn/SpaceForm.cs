@@ -33,5 +33,10 @@ namespace AutoSalonn
         {
 
         }
+
+        private void SpaceForm_Load_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

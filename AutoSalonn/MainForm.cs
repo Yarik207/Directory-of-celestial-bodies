@@ -23,11 +23,27 @@ namespace AutoSalonn
             hf.ShowDialog();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        public void button1_Click(object sender, EventArgs e)
         {
             Button btn = (Button)sender;
             SpaceForm sky = new SpaceForm(btn.Text);
             sky.Show();
+        }
+
+        private void Filterbutton_Click(object sender, EventArgs e)
+        {
+            FilterForm filter = new FilterForm();
+            filter.ShowDialog();
+        }
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

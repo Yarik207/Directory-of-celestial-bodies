@@ -1,0 +1,14 @@
+E:\Directory-of-celestial-bodies\AutoSalonn\bin\Debug\AutoSalonn.exe.config
+E:\Directory-of-celestial-bodies\AutoSalonn\bin\Debug\AutoSalonn.exe
+E:\Directory-of-celestial-bodies\AutoSalonn\bin\Debug\AutoSalonn.pdb
+E:\Directory-of-celestial-bodies\AutoSalonn\obj\Debug\Directory-of-celestial-bodies.csproj.AssemblyReference.cache
+E:\Directory-of-celestial-bodies\AutoSalonn\obj\Debug\Directory-of-celestial-bodies.csproj.SuggestedBindingRedirects.cache
+E:\Directory-of-celestial-bodies\AutoSalonn\obj\Debug\AutoSalonn.FilterForm.resources
+E:\Directory-of-celestial-bodies\AutoSalonn\obj\Debug\AutoSalonn.SpaceForm.resources
+E:\Directory-of-celestial-bodies\AutoSalonn\obj\Debug\AutoSalonn.HelpForm.resources
+E:\Directory-of-celestial-bodies\AutoSalonn\obj\Debug\AutoSalonn.MainForm.resources
+E:\Directory-of-celestial-bodies\AutoSalonn\obj\Debug\AutoSalonn.Properties.Resources.resources
+E:\Directory-of-celestial-bodies\AutoSalonn\obj\Debug\Directory-of-celestial-bodies.csproj.GenerateResource.cache
+E:\Directory-of-celestial-bodies\AutoSalonn\obj\Debug\Directory-of-celestial-bodies.csproj.CoreCompileInputs.cache
+E:\Directory-of-celestial-bodies\AutoSalonn\obj\Debug\AutoSalonn.exe
+E:\Directory-of-celestial-bodies\AutoSalonn\obj\Debug\AutoSalonn.pdb

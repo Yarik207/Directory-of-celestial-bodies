@@ -65,7 +65,7 @@
             this.textBox1.Size = new System.Drawing.Size(563, 369);
             this.textBox1.TabIndex = 2;
             // 
-            // CarForm
+            // SpaceForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -73,8 +73,9 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label1);
-            this.Name = "CarForm";
+            this.Name = "SpaceForm";
             this.Text = "CarForm";
+            this.Load += new System.EventHandler(this.SpaceForm_Load_1);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
